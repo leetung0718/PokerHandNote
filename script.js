@@ -97,10 +97,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 <option value="2">2</option>
             </select>
             <select class="input-suit">
-                <option value="♠">♠</option>
-                <option value="♥">♥</option>
-                <option value="♦">♦</option>
-                <option value="♣">♣</option>
+                <option value="♠">♠️</option>
+                <option value="♥">♥️</option>
+                <option value="♦">♦️</option>
+                <option value="♣">♣️</option>
             </select>
         `;
         document.querySelector('.container-opponents').appendChild(opponentDiv);
